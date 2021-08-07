@@ -1,6 +1,4 @@
 # dinudinni
- 
-# About-Dini
 
 ### Notice
 Look at these handsome guys first. Then, look at my github.
