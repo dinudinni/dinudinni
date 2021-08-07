@@ -1,8 +1,7 @@
 # dinudinni
 
 ### Notice
-Look at these handsome guys first. Then, look at my github.
-<img src="NCT DREAM.jpg" alt="Gambar NCT Dream">
+Look at NCT Dream first. Then, look at my github.
 
 ### Get to Know Me
 
