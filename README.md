@@ -1,7 +1,8 @@
 # dinudinni
 
 ### Notice
-Look at NCT Dream first. Then, look at my github.
+Look at these handsome guys aka NCT Dream first. Then, look at my github.
+<img src="Dreamies.jpg" alt="NCT Dream">
 
 ### Get to Know Me
 
