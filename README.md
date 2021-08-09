@@ -1,10 +1,8 @@
 # dinudinni
- 
-# About-Dini
 
 ### Notice
-Look at these handsome guys first. Then, look at my github.
-<img src="NCT DREAM.jpg" alt="Gambar NCT Dream">
+Look at these handsome guys aka NCT Dream first. Then, look at my github.
+<img src="Dreamies.jpg" alt="NCT Dream">
 
 ### Get to Know Me
 
